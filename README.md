@@ -7,16 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-201" alt="rohan-201" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/drac" target="blank"><img src="https://img.shields.io/twitter/follow/drac?logo=twitter&style=for-the-badge" alt="drac" /></a> </p>
+- 💬 Ask me about **Web3**
 
-- 🌱 I’m currently learning **web development**
-
-- 📝 I regularly write articles on [Robotics](Robotics)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **rohanpoddar780@gmail.com**
-
-- ⚡ Fun fact **I am Noone**
+- 📫 How to reach me **dracweb3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
